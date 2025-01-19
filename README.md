@@ -4,8 +4,8 @@ Project IOT Pemilah Sampah Metal dan Non Metal
 Source Code : [Project-AutomaticWasteSorter.ino](https://github.com/rifkibayuariy/ProjectIOT-PemilahSampahOtomatis/blob/main/Project-AutomaticWasteSorter.ino)
 
 **Komponen**
-- Arduino Nano
-- ESP01
+- ESP32 Dev v1
+- LM2596 Adjustable Step Down
 - Inductive Proximity Sensor (Sensor Metal)
 - 2 Motor Servo
 - 3 Ultrasonic
@@ -14,4 +14,4 @@ Source Code : [Project-AutomaticWasteSorter.ino](https://github.com/rifkibayuari
 - 2 battery 18650 3.7v
 
 **Gambar Rangkaian**
-![Rangkaian](https://github.com/user-attachments/assets/17f69fe0-a461-4317-b013-a6a6f83faaa3)
+![Rangkaian](https://github.com/user-attachments/assets/7f418b50-32a7-4f90-9d4a-503a2feabc28)
